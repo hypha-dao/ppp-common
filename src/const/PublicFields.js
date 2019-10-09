@@ -4,4 +4,6 @@ export default {
     COUNTRY_CODE: 'countryCode',
     S3_IDENTITY: 's3Identity',
     PROFILE_IMAGE: 'profileImage',
+    HOBBIES: 'hobbies',
+    BIO: 'bio',
 };

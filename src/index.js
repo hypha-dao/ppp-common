@@ -1,6 +1,11 @@
-import { ProfileFetchTypes, PublicFields } from './const';
+import {
+    ProfileFetchTypes,
+    PublicFields,
+    RootFields,
+} from './const';
 
 export {
     PublicFields,
     ProfileFetchTypes,
+    RootFields,
 };
