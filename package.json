@@ -1,0 +1,24 @@
+{
+  "name": "@smontero/ppp-common",
+  "version": "0.0.5",
+  "description": "Contains classes that are used by both the server and client apis",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel src -d dist",
+    "prepare": "npm run build",
+    "test": "jest --watch"
+  },
+  "keywords": [
+    "ppp",
+    "people",
+    "profile"
+  ],
+  "author": "Sebastian Montero",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.6.3",
+    "@babel/core": "^7.6.3",
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/preset-env": "^7.6.3"
+  }
+}
