@@ -6,5 +6,6 @@ export default {
     PROFILE_IMAGE: 'profileImage',
     HOBBIES: 'hobbies',
     BIO: 'bio',
+    CUSTOM_FIELDS: 'customFields',
     IS_VERIFIED: 'isVerified',
 };
