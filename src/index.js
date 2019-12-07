@@ -1,4 +1,5 @@
 import {
+    AppIds,
     AppTypes,
     ProfileFetchTypes,
     PublicFields,
@@ -7,6 +8,7 @@ import {
 } from './const';
 
 export {
+    AppIds,
     AppTypes,
     PublicFields,
     ProfileFetchTypes,
