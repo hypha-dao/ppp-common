@@ -1,11 +1,10 @@
 export default {
-    FIRST_NAME: 'firstName',
-    LAST_NAME: 'lastName',
-    COUNTRY_CODE: 'countryCode',
+    NAME: 'name',
+    TIME_ZONE: 'timeZone',
     S3_IDENTITY: 's3Identity',
-    PROFILE_IMAGE: 'profileImage',
-    HOBBIES: 'hobbies',
+    AVATAR_IMAGE: 'avatarImage',
+    TAGS: 'tags',
     BIO: 'bio',
     CUSTOM_FIELDS: 'customFields',
-    IS_VERIFIED: 'isVerified',
+    IS_VERIFIED: 'isVerified'
 };
