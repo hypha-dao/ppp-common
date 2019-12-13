@@ -4,7 +4,7 @@ export default {
     S3_IDENTITY: 's3Identity',
     AVATAR_IMAGE: 'avatarImage',
     TAGS: 'tags',
-    CONTENT: 'content',
+    BIO: 'bio',
     CUSTOM_FIELDS: 'customFields',
     IS_VERIFIED: 'isVerified'
 };
