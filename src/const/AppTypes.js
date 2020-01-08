@@ -1,4 +1,4 @@
 export default {
-    STANDALONE_APP: 'STANDALONE APP',
+    NON_WEB_APP: 'NON WEB APP',
     WEB_APP: 'WEB APP',
 };
