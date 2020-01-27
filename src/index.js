@@ -1,6 +1,7 @@
 import {
     AppIds,
     AppTypes,
+    OauthAppStatus,
     ProfileFetchTypes,
     PublicFields,
     RootFields,
@@ -10,6 +11,7 @@ import {
 export {
     AppIds,
     AppTypes,
+    OauthAppStatus,
     PublicFields,
     ProfileFetchTypes,
     RootFields,
