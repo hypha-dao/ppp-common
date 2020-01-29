@@ -1,7 +1,7 @@
 export default {
     VALID: 'Valid',
-    INVALIDATED_BY_USER: 'Invalidated by user',
-    INVALIDATED_BY_SERVER: 'Invalidated by server',
+    REVOKED_BY_USER: 'Revoked by user',
+    REVOKED_BY_SERVER: 'Revoked by server',
     isValid(status) {
         return status === this.VALID;
     }
