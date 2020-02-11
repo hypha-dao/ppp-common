@@ -1,6 +1,6 @@
 {
   "name": "@smontero/ppp-common",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "Contains classes that are used by both the server and client apis",
   "main": "dist/index.js",
   "scripts": {
