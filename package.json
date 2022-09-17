@@ -1,5 +1,5 @@
 {
-  "name": "@smontero/ppp-common",
+  "name": "@hypha-dao/ppp-common",
   "version": "0.0.23",
   "description": "Contains classes that are used by both the server and client apis",
   "main": "dist/index.js",
@@ -13,11 +13,11 @@
     "people",
     "profile"
   ],
-  "author": "Sebastian Montero",
+  "author": "Hypha DAO",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/telos-kitchen/ppp-common"
+    "url": "https://gitlab.com/hypha-dao/ppp-common"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.3",
